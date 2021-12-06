@@ -16,9 +16,9 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
 
-  <modules>
-    <module>hello-world</module>
-    <module>hello-world</module>
+   <modules>
+    <module>server</module>
+    <module>webapp</module>
   </modules>
 
   <distributionManagement>
