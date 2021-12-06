@@ -17,8 +17,8 @@
   </properties>
 
   <modules>
-    <module>server</module>
-    <module>webapp</module>
+    <module>hello-world</module>
+    <module>hello-world</module>
   </modules>
 
   <distributionManagement>
